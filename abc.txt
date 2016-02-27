@@ -1,3 +1,9 @@
 hi sandrez git
 sur brancheOne aves conflit réglé
 >>>>>>> master
+ _______
+|       |
+|  o   o|
+|    L  |
+|  <--> |
+|_______|

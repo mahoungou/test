@@ -7,3 +7,5 @@ sur brancheOne aves conflit réglé
 |    L  |
 |  <--> |
 |_______|
+
+push via dépot local ver brancheOne.

@@ -1,0 +1,97 @@
+
+* {
+  margin: 0;padding: 0;
+}
+li
+{
+background-color: blue;
+}
+
+  .container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+
+    background-color: grey;
+  }
+
+  [class*="col"] {
+      margin-bottom: 0px;
+      background-color:lightgreen;
+      border: ;
+      border-radius: ;
+      line-height: 40px;
+
+      text-align:center ;
+ vertical-align: middle!important;
+
+ padding: 0px!important;
+height: ;
+ color:black;
+    }
+    .row
+    {
+
+    background-color:blue ;
+ padding: 0px!important;
+ height:800px;
+ width:600px;
+ margin-left: auto!important;
+ margin-right: auto!important;
+box-shadow: -7px 0px 61px -8px rgba(0,0,0,0.75);
+    }
+
+/*.col-md-6
+    {
+  background-color:orange ;
+height:100%;
+    }*/
+    .col-md-12
+        {
+      background-color:;
+height:100%;
+background: url(images02/birdmansandrez02.png) ;
+background-attachment:;
+background-repeat:no-repeat;
+background-position:left top;
+background-size: 100% 100%!important;
+color:white;
+cursor:pointer;
+        }
+
+        .list-inline
+        {
+background-color:;
+display: flex;
+    flex-direction: column;
+        }
+________________________*/
+/*___MEDIA QUERIES___________*/
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+
+  .row
+  {
+
+  background-color: ;
+
+  }
+}
+------------------------------------
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+------------------------------------
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+
+  }
+
+
+}
